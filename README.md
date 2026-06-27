@@ -1,6 +1,6 @@
 # Cohort Notes
 
-This repository is my personal learning journal for the AI-Product Engineering with TypeScript program.
+This repository is my personal learning journal for the AI Product Engineering with TypeScript program.
 
 I'm documenting my learning process in public, including notes, reflections, experiments, key takeaways, and resources that help me understand AI product engineering concepts.
 
